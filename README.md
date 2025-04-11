@@ -33,9 +33,7 @@ We selected logistic regression for its:
 - **Efficiency** – fast training and testing, making it ideal as a baseline.
 
 📊 Current Results (Confusion Matrix Highlights):
-- Neutral tweets correctly classified: `19,622`
-- Misclassified personally-driven tweets (false negatives): `3,240`
-- Misclassified neutral tweets (false positives): `1,264`
+
 
 ### 🤖 AI-Based Model (Coming Soon)
 
